@@ -67,13 +67,13 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 85
-  - name: Malay
-    percent: 75
+#languages:
+#  - name: English
+#    percent: 100
+#  - name: Chinese
+#    percent: 85
+#  - name: Malay
+#    percent: 75
 ---
 
 Recent Master’s graduate in Data Science with a strong foundation in statistical analysis, machine learning, and data visualization. My academic journey has equipped me with hands-on experience solving complex problems using data-driven approaches, including Python, R, and PowerBI. I am passionate about transforming raw data into actionable insights and am eager to apply my skills to real-world challenges in the industries or domains of finance or healthcare.
