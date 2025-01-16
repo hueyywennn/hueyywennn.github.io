@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Cheam
+title: Cheam Huey Wen (詹惠雯)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-#role: Graduate
+#role: ''
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ bio: A motivated and adaptable graduate passionate about problem-solving and col
 #  - Computational Linguistics
 #  - Information Retrieval
 
-#education:
+education:
   courses:
     - course: MSc in Data Science
       institution: University of Malaya
@@ -53,3 +53,5 @@ social:
     icon_pack: ai
     link: files/resume.pdf
 ---
+
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
