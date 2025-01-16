@@ -6,7 +6,7 @@ title: Cheam Huey Wen (詹惠雯)
 superuser: true
 
 # Role/position
-role: Graduate
+#role: Graduate
 
 # Status emoji
 status:
@@ -46,8 +46,8 @@ social:
     icon_pack: fas
     link: 'mailto:hueywen.cheam@gmail.com' # For a direct email link, use "mailto:test@example.org".
   #- icon: twitter
-   # icon_pack: fab
-    #link: https://twitter.com/wowchemy
+  #  icon_pack: fab
+  #  link: https://twitter.com/wowchemy
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/hueyywennn
@@ -55,14 +55,14 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/hueyywennn
-  - icon: linkedin
-      link: https://www.linkedin.com/in/cheam-huey-wen
+#  - icon: linkedin
+#      link: https://www.linkedin.com/in/cheam-huey-wen
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: resume
     icon_pack: ai
-    link: resume.pdf
+    link: files/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
