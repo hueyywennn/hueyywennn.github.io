@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Cheam Huey Wen (詹惠雯)
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎓
 
 # Organizations/Affiliations
 #organizations:
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: A motivated and adaptable graduate, passionate about problem-solving and collaboration with a positive, can-do attitude.
 
 #interests:
 #- Artificial Intelligence
@@ -26,16 +26,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #- Information Retrieval
 
 #education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+  courses:
+  - course: MSc in Data Science
+    institution: University of Malaya
+    year: 2024
+  - course: BSc in Cognitive Science
+    institution: University Malaysia Sarawak
+    year: 2021
+  - course: Malaysian Higher School Certificate (STPM) Science
+    institution: Massachusetts Institute of Technology
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,30 +44,38 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: 'mailto:hueywen.cheam@gmail.com' # For a direct email link, use "mailto:test@example.org".
+  #- icon: twitter
+   # icon_pack: fab
+    #link: https://twitter.com/wowchemy
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.instagram.com/hueyywennn
 # Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/hueyywennn
+- icon: linkedin
+    link: https://www.linkedin.com/in/cheam-huey-wen
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
+
+languages:
+  - name: English
+    percent: 100
+  - name: Chinese
+    percent: 85
+  - name: Malay
+    percent: 75
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Recent Master’s graduate in Data Science with a strong foundation in statistical analysis, machine learning, and data visualization. My academic journey has equipped me with hands-on experience solving complex problems using data-driven approaches, including Python, R, and PowerBI. I am passionate about transforming raw data into actionable insights and am eager to apply my skills to real-world challenges in the industries or domains of finance or healthcare.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
