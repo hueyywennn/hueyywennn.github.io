@@ -6,7 +6,7 @@ title: Cheam Huey Wen (詹惠雯)
 superuser: true
 
 # Role/position
-role: ''
+role: Graduate
 
 # Status emoji
 status:
@@ -52,17 +52,17 @@ social:
     icon_pack: fab
     link: https://www.instagram.com/hueyywennn
 # Uncomment below for Github link
-- icon: github
-  icon_pack: fab
-  link: https://github.com/hueyywennn
-- icon: linkedin
-    link: https://www.linkedin.com/in/cheam-huey-wen
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/hueyywennn
+  - icon: linkedin
+      link: https://www.linkedin.com/in/cheam-huey-wen
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: resume
-   icon_pack: ai
-   link: resume.pdf
+  - icon: resume
+    icon_pack: ai
+    link: resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
