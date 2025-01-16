@@ -24,7 +24,6 @@ bio: A motivated and adaptable graduate, passionate about problem-solving and co
 #- Artificial Intelligence
 #- Computational Linguistics
 #- Information Retrieval
-
 #education:
   courses:
   - course: MSc in Data Science
