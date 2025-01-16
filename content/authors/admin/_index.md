@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cheam Huey Wen (詹惠雯)
+title: Cheam Huey Wen
 
 # Is this the primary user of the site?
 superuser: true
