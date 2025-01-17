@@ -28,10 +28,10 @@ content:
   filter_button:
     - name: Projects
       tag: '*'
-  #  - name: Machine Learning
-  #    tag: ML
-  #  - name: Computer Vision
-  #    tag: CV
+    - name: Data Science
+      tag: DS
+    - name: Data Analytics
+      tag: DA
   #  - name: NLP
   #    tag: NLP
 
