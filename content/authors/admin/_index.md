@@ -13,7 +13,7 @@ status:
   icon: 🎓
 
 # Short bio (displayed in user profile at end of posts)
-bio: A motivated and adaptable graduate passionate about problem-solving and collaboration and has a positive, can-do attitude.
+# bio: A motivated and adaptable graduate passionate about problem-solving and collaboration and has a positive, can-do attitude.
 
 #interests:
 #  - Artificial Intelligence
