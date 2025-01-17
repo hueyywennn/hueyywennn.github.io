@@ -20,17 +20,17 @@ bio: A motivated and adaptable graduate passionate about problem-solving and col
 #  - Computational Linguistics
 #  - Information Retrieval
 
-education:
-  courses:
-    - course: MSc in Data Science
-      institution: University of Malaya
-      year: 2024
-    - course: BSc in Cognitive Science
-      institution: University Malaysia Sarawak
-      year: 2021
-    - course: Malaysian Higher School Certificate (STPM) Science
-      institution: Massachusetts Institute of Technology
-      year: 2017
+#education:
+#  courses:
+#    - course: MSc in Data Science
+#      institution: University of Malaya
+#      year: 2024
+#    - course: BSc in Cognitive Science
+#      institution: University Malaysia Sarawak
+#      year: 2021
+#    - course: Malaysian Higher School Certificate (STPM) Science
+#      institution: Kolej Tingkatan Enam Petaling Jaya
+#      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
