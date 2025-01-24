@@ -5,7 +5,9 @@ tags:
   - DS
 date: 2024-12-23
 external_link: https://github.com/hueyywennn/project1
-categories: ["Python", "Machine Learning"]
+categories:
+  - Python
+  - Machine Learning
 ---
 The tools used in this project include:
 
