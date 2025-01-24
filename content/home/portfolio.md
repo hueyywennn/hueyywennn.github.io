@@ -35,6 +35,12 @@ content:
   #  - name: NLP
   #    tag: NLP
 
+  category:
+  - Python
+  - PowerBI
+  - R
+  - Tableau
+
 design:
   columns: '1'
   view: masonry
