@@ -27,11 +27,11 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
     - name: All
-      category: '*'
+      tag: '*'
     - name: Data Science
-      category: DS
+      tag: DS
     - name: Data Analytics
-      category: DA
+      tag: DA
   #  - name: NLP
   #    tag: NLP
 
