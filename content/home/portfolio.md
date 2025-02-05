@@ -28,18 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Data Science
-      tag: DS
-    - name: Data Analytics
-      tag: DA
-  #  - name: NLP
-  #    tag: NLP
-
-  category:
-  - Python
-  - PowerBI
-  - R
-  - Tableau
+    - name: Machine Learning
+      tag: ML
+    - name: Visualization
+      tag: VIZ
+    - name: Others
+      tag: OTH
 
 design:
   columns: '1'
