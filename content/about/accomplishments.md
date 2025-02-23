@@ -17,6 +17,7 @@ subtitle:
 #   Refer to https://docs.hugoblox.com/customization/#date-format
 date_format: Jan 2006
 
+<!--
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization`, and `date_start` are the required parameters.
@@ -55,6 +56,7 @@ item:
     organization_url: https://www.theforage.com/
     title: 'BCG - Data Science Job Simulation'
     #url: ''
+-->
 
 design:
   columns: '1'
