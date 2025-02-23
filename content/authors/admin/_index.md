@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cheam Huey Wen     (詹惠雯)
+title: Cheam Huey Wen
 
 # Is this the primary user of the site?
 superuser: true
@@ -13,8 +13,7 @@ status:
   icon: 🎓
 
 # Short bio (displayed in user profile at end of posts)
-# bio: Kindly visit this page.
-  link: https://hueyywennn.weebly.com/
+# bio: 
 
 #interests:
 #  - Artificial Intelligence
@@ -23,15 +22,14 @@ status:
 
 #education:
 #  courses:
-#    - course: MSc in Data Science
-#      institution: University of Malaya
-#      year: 2024
-#    - course: BSc in Cognitive Science
-#      institution: University Malaysia Sarawak
-#      year: 2021
-#    - course: Malaysian Higher School Certificate (STPM) Science
-#      institution: Kolej Tingkatan Enam Petaling Jaya
-#      year: 2017
+#    - course: 
+#      institution: 
+#      year: 
+#    - course: 
+#      institution: 
+#      year: 
+#    - course: 
+#      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -40,13 +38,13 @@ status:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:hueywen.cheam@gmail.com' # For a direct email link, use "mailto:test@example.org".
+    link: 'mailto:@gmail.com' # For a direct email link, use "mailto:test@example.org".
   - icon: instagram
     icon_pack: fab
-    link: https://www.instagram.com/hueyywennn
+    link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/hueyywennn
+    link: 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
