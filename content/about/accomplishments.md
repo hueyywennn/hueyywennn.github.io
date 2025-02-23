@@ -1,4 +1,5 @@
 ---
+<!--
 # An instance of the Accomplishments widget.
 # Documentation: https://docs.hugoblox.com/page-builder/
 widget: accomplishments
@@ -13,7 +14,6 @@ weight: 40
 title: 'Accomplish&shy;ments'
 subtitle:
 
-<!--
 # Date format
 #   Refer to https://docs.hugoblox.com/customization/#date-format
 date_format: Jan 2006
@@ -56,8 +56,8 @@ item:
     organization_url: https://www.theforage.com/
     title: 'BCG - Data Science Job Simulation'
     #url: ''
--->
 
 design:
   columns: '1'
+-->
 ---
