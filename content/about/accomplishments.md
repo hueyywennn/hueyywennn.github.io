@@ -1,4 +1,5 @@
-<!--
+{{if false}}
+
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://docs.hugoblox.com/page-builder/
@@ -61,4 +62,4 @@ design:
   columns: '1'
 
 ---
--->
+{{end}}
