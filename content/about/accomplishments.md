@@ -13,11 +13,11 @@ weight: 40
 title: 'Accomplish&shy;ments'
 subtitle:
 
+<!--
 # Date format
 #   Refer to https://docs.hugoblox.com/customization/#date-format
 date_format: Jan 2006
 
-<!--
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization`, and `date_start` are the required parameters.
